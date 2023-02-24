@@ -3,5 +3,5 @@ Nela é possível adicionar, editar, concluir e cancelar tarefas, permite també
 
 segue link para conferir:
 
-https://lnkd.in/dTxgz7cD
+https://geovanibello.github.io/agendadetarefas/
 
